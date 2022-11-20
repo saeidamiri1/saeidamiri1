@@ -1,5 +1,5 @@
 
-# Hey there, I'm Saeid (sam) Amiri! 👋
+# Hey there, I'm Saeid Amiri! 👋
 
  <div  class="icons-social" style="margin-left: 10px;">
     <a style="margin-left: 10px;" target="_blank" href="https://github.com/saeidamiri1">
