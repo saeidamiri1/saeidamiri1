@@ -14,7 +14,7 @@
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 **ABOUT ME**
-I’m currently working on development of piplines and ML, and if you are interested in collaborating and doing some great work, please reach out to me via email. 
+I’m currently working on development of piplines for data analysis and ML methods, if you are interested in collaborating and doing some great work, please reach out to me via email. 
 
 ![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
