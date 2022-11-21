@@ -63,7 +63,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <div align="left"> <summary> MY GITHUB SUMMARY</summary> <div/>
  
-- ✅ [SegPy:A pipeline for segregation analysis](https://github.com/KayleeDavisGitHub/LaTeX-Templates)
+- ✅ [SegPy:A pipeline for segregation analysis](https://github.com/neurobioinfo/segpy)
 - ✅ [MTSvieweR](https://github.com/neurobioinfo/MTSvieweR)
 - ➡️ [scrnabox: A pipeline for scRNA](https://github.com/neurobioinfo/scrnabox) - In Progress
 - More coming!
@@ -71,6 +71,6 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 </details>
 
 ![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
 
 
