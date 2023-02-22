@@ -66,7 +66,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <div align="left"> <summary> MY GITHUB SUMMARY</summary> <div/>
  
 - ✅ [SegPy:A pipeline for segregation analysis](https://github.com/neurobioinfo/segpy)
-- ✅ [MTSviewer](http://132.216.58.173/MTSvieweR/)
+- ✅ [MTSviewer: a database of human and yeast mitochondrial proteins integrating](http://132.216.58.173/MTSvieweR/)
 - ➡️ [scrnabox: A pipeline for scRNA](https://github.com/neurobioinfo/scrnabox) - In Progress
 - More coming!
 
