@@ -1,4 +1,3 @@
-
 # Hey there, I'm Saeid Amiri! 👋
 
  <div  class="icons-social" style="margin-left: 10px;">
@@ -64,10 +63,11 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
 <div align="left"> <summary> MY GITHUB SUMMARY</summary> <div/>
- 
-- ✅ [SegPy:A pipeline for segregation analysis](https://github.com/neurobioinfo/segpy)
-- ✅ [MTSviewer: a database of human and yeast mitochondrial proteins integrating](http://132.216.58.173/MTSvieweR1/)
-- ➡️ [scrnabox: A pipeline for scRNA](https://github.com/neurobioinfo/scrnabox) - In Progress
+
+- ✅ [scrnabox: A pipeline for scRNA](https://github.com/neurobioinfo/scrnabox). 
+- ✅ [SegPy:A pipeline for segregation analysis](https://github.com/neurobioinfo/segpy).
+- ✅ [MTSviewer: a database of human and yeast mitochondrial proteins integrating](http://132.216.58.173/MTSvieweR1/).
+
 - More coming!
 
 </details>
