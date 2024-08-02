@@ -13,7 +13,7 @@
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 **ABOUT ME**
-I am currently working on developing pipelines for data analysis and machine learning methods. If you're interested in collaborating on exciting projects, please reach out to me via email.
+I am currently developing pipelines for data analysis, modeling, and machine learning methods. If you're interested in collaborating on exciting projects, please contact me via email.
 
 ![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
