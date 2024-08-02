@@ -67,7 +67,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 - ✅ [ensemblex: an accuracy-weighted ensemble genetic demultiplexing framework for single-cell RNA sequencing](https://github.com/neurobioinfo/ensemblex). 
 - ✅ [scrnabox: A pipeline for scRNA](https://github.com/neurobioinfo/scrnabox). 
 - ✅ [SegPy:A pipeline for segregation analysis](https://github.com/neurobioinfo/segpy).
-- ✅ [MTSviewer: a database of human and yeast mitochondrial proteins integrating](http://132.216.58.173/MTSvieweR1/).
+- ✅ [MTSviewer: a database of human and yeast mitochondrial proteins integrating](https://mtsviewer.neurohub.ca/).
 
 - More coming!
 
