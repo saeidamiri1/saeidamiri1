@@ -62,7 +62,8 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <img alt="GitHub" title="GitHub" width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 
 
-<div align="left"> <summary> MY GITHUB SUMMARY</summary> <div/>
+<div align="left"> <summary> MY GITHUB SUMMARY</summary> <div/> 
+	
 - ✅ [ensemblex: an accuracy-weighted ensemble genetic demultiplexing framework for single-cell RNA sequencing](https://github.com/neurobioinfo/ensemblex). 
 - ✅ [scrnabox: A pipeline for scRNA](https://github.com/neurobioinfo/scrnabox). 
 - ✅ [SegPy:A pipeline for segregation analysis](https://github.com/neurobioinfo/segpy). 
