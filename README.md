@@ -63,12 +63,16 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
 <div align="left"> <summary> MY GITHUB SUMMARY</summary> <div/> 
+	
 **Software:**	
+
 - ✅ [**ensemblex**: an accuracy-weighted ensemble genetic demultiplexing framework for single-cell RNA sequencing](https://github.com/neurobioinfo/ensemblex). 
 - ✅ [**scrnabox**: A pipeline for scRNA](https://github.com/neurobioinfo/scrnabox). 
 - ✅ [**SegPy**:A pipeline for segregation analysis](https://github.com/neurobioinfo/segpy). 
 - ✅ [**MTSviewer**: a database of human and yeast mitochondrial proteins integrating](https://mtsviewer.neurohub.ca/). 
+
 **Education**
+
 - ✅ [**Python training platform**: a platform focused on learning fundamental Python concepts](https://saeidamiri1.github.io/python_training_platform/site/). 
 - ✅ [**Bioinformatics Material**: a website focused on understanding fundamental bioinformatics concepts](https://saeidamiri1.github.io/bioinformatics_material/site/). 
 - More coming!
